@@ -1,5 +1,6 @@
 # AI-story-generator
 AMIN MAHJOUB SAGHAIROUN MOHAMED / 220208605
+GOOGLE COLAB LINK : https://colab.research.google.com/drive/1q4YyuVCpQnnb4R1oT49vsX3ovS-l57I0?usp=sharing
 # 📚 AI Story Generator
 
 A simple Python-based AI story generator that delivers short, creative stories from a predefined set. The user can interact with the AI to hear new stories or end the session based on their preferences.
